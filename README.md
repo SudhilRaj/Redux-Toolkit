@@ -1,5 +1,5 @@
 
-This is a study and reference repository created while learning the features of Redux Toolkit
+This is a study and reference repository created while learning the features of the Redux Toolkit. The toolkit simplifies the usage of the standard Redux package and addresses the common concerns about Redux.
 
 ## Redux Toolkit
 
